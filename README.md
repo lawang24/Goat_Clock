@@ -1,1 +1,3 @@
-# Goat_Clock
+# The Greatest Useless Clock
+
+Simultaneously digital and analog
