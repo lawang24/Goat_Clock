@@ -1,3 +1,3 @@
 # The Greatest Useless Clock
 
-Simultaneously digital and analog
+Why choose between a digital and analog clock?
